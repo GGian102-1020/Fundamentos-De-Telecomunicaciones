@@ -1,0 +1,41 @@
+Una red WiFi Mesh es capaz de redirigir el tráfico por toda la red de la forma más óptima posible para que en todo momento dispongamos de la mejor señal posible. Pueden determinar qué satélite o nodo es el mejor al que nos podemos conectar en cada momento según el estado de los mismos, la saturación de la señal, distancia a cada uno de ellos, potencia de la señal, etc.
+
+Algo que, además realiza de forma totalmente transparente para el usuario, lo que evita que tengamos que hacer nada de forma manual ni realizar complejas configuraciones únicamente al alcance de aquellos con ciertos conocimientos. Por lo tanto, cualquier usuario conectado a una red en malla podrá disfrutar de la mejor conexión en cualquier momento de manera automática gracias a su gestión inteligente.
+
+En el caso de que un nodo o satélite se cayera dentro de una red mesh o mallada, la propia red derivaría el tráfico de forma automática al mejor nodo posible dentro de la misma red. Por lo tanto, esto significa que en ningún momento perderíamos conexión, algo que sí ocurre con el uso de repetidores. Es decir, si estamos conectados a un repetidor y éste se cae, perderemos la conexión.
+
+En su caso, esta red WiFi Mesh se compone de los siguientes elementos:
+
+Router. Este dispositivo es el encargado de proporcionar conexión a Internet, enrutando el tráfico hacia el exterior. En una red Mesh, el router puede ser el que facilita la operadora o, por el contrario, tratarse de uno de los nodos de la red.
+
+Estación base. Es el nodo principal de la red de malla. Se conecta con el router del proveedor de Internet y actúa como puerta de acceso a la red. Como hemos mencionado en el punto anterior, una estación bien podría funcionar con router. En ese caso, el de la compañía debería descartarse.
+
+Nodos. Son dispositivos satélites que deben colocarse estratégicamente por todo el espacio que se desea cubrir.
+
+Diferencias entre WIFI MESH y un REPETIDOR/EXTENSOR
+
+Los sistemas WiFi mesh están preconfigurados de fábrica, lo que significa que una vez que tenga configurada la unidad mesh router principal, podrá añadir fácilmente satélites mesh adicionales y todos funcionarán juntos. Las redes mesh también tienen un backhaul más poderoso que un WiFi extensor de rango tradicional. Esto significa que la señal de la unidad principal a los satélites es más fuerte y puede llegar más lejos con menos posibilidades de interferencias y ralentizar.
+
+Los sistemas mesh permiten el uso de un único SSID (identificador de conjunto de servicios), lo que significa que el mismo nombre de WiFi siempre está disponible sin problemas y no tiene que preocuparse por la red a la que está conectado el dispositivo, ya que siempre se conectará a la señal más potente. Con un extensor de rango WiFi tradicional, tiene que configurar cada uno por separado, lo que puede ser complicado y propenso a errores.
+
+VENTAJAS
+
+Las principales ventajas de las redes WiFi Mesh es que optimizan los recursos. Tienes mayor cobertura en zonas más “remotas” o menos comunicadas de la casa o de la estancia y la calidad de la señal suele ser mejor gracias a la conexión entre todos los nodos.
+
+- Instalación sencilla 
+- Se evitan las interferencias
+- Diseño agradable
+- Mayor seguridad
+
+DESVENTAJAS
+
+- Confusión en la señal 
+Es posible que no coloques correctamente los satélites en los lugares que corresponde y esto suponga confusión a la hora de moverte por la casa: es posible que haya momentos o zonas en las que los nodos no sepan realmente cuál es la que debes conectarte en ese momento. Además, el WiFi Mesh puede verse afectado por la interferencia de señal de otros dispositivos inalámbricos, como los teléfonos inalámbricos, los hornos microondas, los dispositivos Bluetooth y otros dispositivos electrónicos que utilizan la misma frecuencia que el Wi-Fi.
+
+- Inversión económica
+- Funcionamiento de la red 
+- Enfoque profesional
+- Menos seguridad
+
+Bibliografia: https://www.adslzone.net/noticias/streaming-tv/plataforma-gratis-alternativa-pluto-tv-rlaxxtv-canales/
+https://www.netgear.com/es/home/discover/mesh-wifi/
